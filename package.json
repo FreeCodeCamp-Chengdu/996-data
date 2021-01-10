@@ -1,16 +1,31 @@
 {
   "name": "996-data",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "pack-WLB": "yaml2json source/965.yml > dist/965.json",
-    "build": "rm -rf dist  &&  mkdir dist  &&  npm run pack-WLB"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+  "description": "Structure Data of 996 companies",
+  "license": "Anti-996 1.0",
+  "devDependencies": {
+    "husky": "^4.3.7",
+    "lint-staged": "^10.5.3",
+    "prettier": "^2.2.1",
     "yamljs": "^0.3.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "none"
+  },
+  "lint-staged": {
+    "*.{md,json,yml}": "prettier --write"
+  },
+  "scripts": {
+    "test": "lint-staged",
+    "pack-996": "yaml2json source/996.yml > dist/996.json",
+    "pack-955": "yaml2json source/955.yml > dist/955.json",
+    "build": "rm -rf dist  &&  mkdir dist  &&  npm run pack-996  &&  npm run pack-955"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test",
+      "pre-push": "npm run build"
+    }
   }
 }
