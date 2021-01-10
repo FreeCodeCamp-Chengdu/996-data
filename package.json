@@ -1,0 +1,16 @@
+{
+  "name": "996-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pack-WLB": "yaml2json source/965.yml > dist/965.json",
+    "build": "rm -rf dist  &&  mkdir dist  &&  npm run pack-WLB"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  }
+}
