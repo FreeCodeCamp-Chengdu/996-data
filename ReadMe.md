@@ -15,7 +15,8 @@
 
 ## 上游项目
 
-https://github.com/fengT-T/996_list
+- https://github.com/996icu/996.ICU
+- https://github.com/fengT-T/996_list
 
 [1]: https://zh.wikipedia.org/wiki/996%E5%B7%A5%E4%BD%9C%E5%88%B6
 [2]: https://github.com/EasyWebApp/WebCell/actions
