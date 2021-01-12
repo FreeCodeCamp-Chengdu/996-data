@@ -13,6 +13,10 @@
   - [996 ICU][5]: https://fcc-cd.dev/996-data/996.json
   - [955 WLB][6]: https://fcc-cd.dev/996-data/955.json
 
+## 上游项目
+
+https://github.com/fengT-T/996_list
+
 [1]: https://zh.wikipedia.org/wiki/996%E5%B7%A5%E4%BD%9C%E5%88%B6
 [2]: https://github.com/EasyWebApp/WebCell/actions
 [3]: https://github.com/FreeCodeCamp-Chengdu/996-data/edit/master/source/996.yml

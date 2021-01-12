@@ -1,1632 +1,1458 @@
-- id: '+1'
-  score: 1281
-  name: 京东（假装置顶：投票正常能用。查看评论请禁用JavaScript）
-- id: '+2'
-  score: 727
-  name: 有赞
-- id: '+12'
-  score: 690
-  name: 阿里
-- id: '+7'
-  score: 490
-  name: 字节跳动（我司大小周大家都知道了，更烦人的是早上十点上班晚上十点下班，到家差不多就十一点了。）
-- id: '+9'
-  score: 384
-  name: '华为终端部门（长期加班 每周一次通宵）'
-- id: '+21'
-  score: 263
-  name: '苏宁（无偿加班到八九点 绩效考核不看你工作的成果 只关心加班时长，而且加班少要被优化……）'
-- id: '+16'
-  score: 239
-  name: 并夕夕
-- id: '+5'
-  score: 221
-  name: '完美世界 经常加班到三四点 无加班费（DOTA2服务器总崩... 你们加班咋加的....）'
-- id: '+32'
-  score: 137
-  name: '小米（根据评论：讲真 没觉着加班 不知道为什么名次会排在ov前面）'
-- id: '+60'
-  score: 130
-  name: 腾讯（一言难尽，看评论吧）
-- id: '+85'
-  score: 108
-  name: 海康威视（新部门996，老部门99大小周，没有加班费，合同上白纸黑字8小时工作制，半个字没提加班）
-- id: '+22'
-  score: 105
-  name: 'Icourt 新橙科技（这个公司996业界还算知名）'
-- id: '+34'
-  score: 105
-  name: '亚信科技（根据评论 1.出差，加班，没有钱 2.  加班确实比较多，但并没有制度上要求996，平均下来985）'
-- id: '+46'
-  score: 89
-  name: 猎聘网
-- id: '+13'
-  score: 83
-  name: 海尔
-- id: '+20'
-  score: 81
-  name: 58同城
-- id: '+31'
-  score: 78
-  name: 卖客星球
-- id: '+26'
-  score: 77
-  name: 武汉氪细胞（面试的时候面试官直接说公司996，问能不能接受，我说没问题，但是不要我）
-- id: '+25'
-  score: 73
-  name: 饿了么
-- id: '+24'
-  score: 65
-  name: 小红书
-- id: '+33'
-  score: 65
-  name: 云徙科技
-- id: '+55'
-  score: 63
-  name: '步步高（教育电子, VIVO, OPPO）'
-- id: '+40'
-  score: 62
-  name: 米斯特安全
-- id: '+23'
-  score: 62
-  name: 万达信息股份有限公司（加的我都前列腺了）
-- id: '+17'
-  score: 61
-  name: '来伊份（987 ，加班成狗）'
-- id: '+6'
-  score: 56
-  name: 蝴蝶互动（996不止）
-- id: '+187'
-  score: 53
-  name: 深信服
-- id: '+160'
-  score: 46
-  name: 浪潮
-- id: '+50'
-  score: 45
-  name: 游族
-- id: '+99'
-  score: 42
-  name: CVTE
-- id: '+101'
-  score: 40
-  name: 多益
-- id: '+73'
-  score: 39
-  name: 科大讯飞
-- id: '+82'
-  score: 37
-  name: 百度
-- id: '+83'
-  score: 36
-  name: 四方伟业
-- id: '+142'
-  score: 35
-  name: 美团点评
-- id: '+39'
-  score: 32
-  name: B站
-- id: '+36'
-  score: 31
-  name: 蜻蜓FM（北京一周55小时工作时间，上海57小时，并实行Wi-Fi打卡）
-- id: '+45'
-  score: 31
-  name: 用友集团畅捷通公司
-- id: '+252'
-  score: 28
-  name: 欢聚时代
-- id: '+61'
-  score: 28
-  name: DJI
-- id: '+97'
-  score: 27
-  name: 好未来
-- id: '+48'
-  score: 22
-  name: 作业帮
-- id: '+277'
-  score: 20
-  name: 南京t3出行
-- id: '+113'
-  score: 20
-  name: 三七互娱？？？
-- id: '+98'
-  score: 20
-  name: 北京同仁堂健康药业股份有限公司
-- id: '+121'
-  score: 20
-  name: 浙江大華
-- id: '+15'
-  score: 19
-  name: 井通科技
-- id: '+10'
-  score: 19
-  name: 膜法指南
-- id: '+28'
-  score: 19
-  name: 携程
-- id: '+163'
-  score: 19
-  name: 依图科技
-- id: '+232'
-  score: 18
-  name: 商汤科技
-- id: '+29'
-  score: 18
-  name: 52西游
-- id: '+251'
-  score: 18
-  name: 网易大部分游戏项目
-- id: '+35'
-  score: 17
-  name: 武汉360
-- id: '+288'
-  score: 17
-  name: 平安不动产（信息科技部）
-- id: '+89'
-  score: 16
-  name: Hand
-- id: '+42'
-  score: 16
-  name: 水滴互助
-- id: '+127'
-  score: 16
-  name: 便利蜂
-- id: '+371'
-  score: 15
-  name: 烽火通信
-- id: '+4'
-  score: 15
-  name: 像素软件
-- id: '+285'
-  score: 14
-  name: 浙江盛和网络科技有限公司
-- id: '+148'
-  score: 14
-  name: 趣头条--悠趣直播，10117
-- id: '+43'
-  score: 14
-  name: 传统制造业
-- id: '+123'
-  score: 14
-  name: 趣头条—米读小说
-- id: '+350'
-  score: 14
-  name: 同花顺
-- id: '+37'
-  score: 14
-  name: 心动网络
-- id: '+128'
-  score: 14
-  name: 杭州涂鸦科技
-- id: '+181'
-  score: 13
-  name: 美团
-- id: '+122'
-  score: 12
-  name: 北京锐安科技
-- id: '+38'
-  score: 12
-  name: 喜马拉雅FM
-- id: '+59'
-  score: 12
-  name: 天源迪科
-- id: '+91'
-  score: 12
-  name: BOSS直聘——马老板说了995.5
-- id: '+211'
-  score: 12
-  name: 360金融，10，10，6加班，持续2个月了
-- id: '+58'
-  score: 12
-  name: 浙江宇视科技
-- id: '+96'
-  score: 12
-  name: 成都趣乐多-西游网
-- id: '+126'
-  score: 12
-  name: 百度
-- id: '+243'
-  score: 11
-  name: 阿拉丁未来科技
-- id: '+30'
-  score: 11
-  name: whfy
-- id: '+154'
-  score: 11
-  name: 厦门神州优车
-- id: '+245'
-  score: 11
-  name: 网易考拉常年9点半之后下班
-- id: '+69'
-  score: 11
-  name: 哔哩哔哩
-- id: '+150'
-  score: 10
-  name: 中润国力集团有限公司
-- id: '+266'
-  score: 10
-  name: '用友 Yonyou'
-- id: '+234'
-  score: 10
-  name: 美的
-- id: '+282'
-  score: 9
-  name: 中兴
-- id: '+165'
-  score: 9
-  name: Bigo
-- id: '+196'
-  score: 9
-  name: VIPKID
-- id: '+47'
-  score: 9
-  name: 斤谍
-- id: '+253'
-  score: 9
-  name: 浩鲸科技
-- id: '+76'
-  score: 9
-  name: 威富通科技有限公司
-- id: '+51'
-  score: 8
-  name: 兴盛优选
-- id: '+131'
-  score: 8
-  name: 奖多多
-- id: '+132'
-  score: 8
-  name: BIGO
-- id: '+224'
-  score: 8
-  name: 三七互娱
-- id: '+280'
-  score: 8
-  name: 斗米
-- id: '+177'
-  score: 8
-  name: ''
-- id: '+176'
-  score: 8
-  name: 瓜子二手车
-- id: '+289'
-  score: 8
-  name: 福建网龙
-- id: '+133'
-  score: 8
-  name: 成信大软件工程专业
-- id: '+81'
-  score: 8
-  name: 玖富
-- id: '+63'
-  score: 8
-  name: 杭州网聚海数数据科技有限公司
-- id: '+284'
-  score: 7
-  name: '007的研究生和博士  廉价劳动力，剥削链底层'
-- id: '+44'
-  score: 7
-  name: 萌果科技
-- id: '+431'
-  score: 7
-  name: 软通动力iSoftStone（菊花厂外包）
-- id: '+241'
-  score: 7
-  name: haojingkeji
-- id: '+109'
-  score: 7
-  name: 运去哪
-- id: '+49'
-  score: 7
-  name: 北京温暖烛光
-- id: '+229'
-  score: 7
-  name: 旷视科技
-- id: '+137'
-  score: 7
-  name: '杭州 婚礼纪'
-- id: '+66'
-  score: 7
-  name: 国网湖南信通公司
-- id: '+106'
-  score: 7
-  name: 国机二院
-- id: '+296'
-  score: 7
-  name: '华为Cloud BU'
-- id: '+423'
-  score: 6
-  name: 当当
-- id: '+361'
-  score: 6
-  name: 新网银行
-- id: '+317'
-  score: 6
-  name: 中科软
-- id: '+189'
-  score: 6
-  name: 轻松筹
-- id: '+147'
-  score: 6
-  name: 淘集集
-- id: '+448'
-  score: 6
-  name: '上海欢乐互娱（9.5 10 6 又叫江游）'
-- id: '+87'
-  score: 6
-  name: 开心人
-- id: '+452'
-  score: 6
-  name: 'PingPong (杭州呯嘭智能技术有限公司)'
-- id: '+300'
-  score: 5
-  name: 腾讯云
-- id: '+475'
-  score: 5
-  name: 中软国际
-- id: '+562'
-  score: 5
-  name: '杭州*恒信息技术公司(周六名曰“学习日”，实为加班)'
-- id: '+92'
-  score: 5
-  name: 掌贝
-- id: '+159'
-  score: 5
-  name: 北京容联云通讯
-- id: '+263'
-  score: 5
-  name: 房多多
-- id: '+191'
-  score: 5
-  name: 北京永航科技
-- id: '+322'
-  score: 5
-  name: 海康威视
-- id: '+134'
-  score: 5
-  name: 斗鱼
-- id: '+340'
-  score: 5
-  name: 北京科蓝软件系统股份有限公司
-- id: '+439'
-  score: 5
-  name: 传音控股
-- id: '+210'
-  score: 5
-  name: Opera
-- id: '+508'
-  score: 5
-  name: 西安华为技术有限公司
-- id: '+380'
-  score: 4
-  name: 掌门1对1
-- id: '+135'
-  score: 4
-  name: 万店掌
-- id: '+221'
-  score: 4
-  name: Momenta
-- id: '+62'
-  score: 4
-  name: 深圳时空易联
-- id: '+208'
-  score: 4
-  name: 歪脸网
-- id: '+219'
-  score: 4
-  name: 巨人
-- id: '+377'
-  score: 4
-  name: 小黑鱼
-- id: '+230'
-  score: 4
-  name: 杭州微一案
-- id: '+169'
-  score: 4
-  name: 浪潮
-- id: '+179'
-  score: 4
-  name: 上海拜聚
-- id: '+71'
-  score: 4
-  name: 上海久耶供应链管理有限公司
-- id: '+138'
-  score: 4
-  name: 蓝思科技
-- id: '+416'
-  score: 4
-  name: 烽火通信
-- id: '+523'
-  score: 4
-  name: ''
-- id: '+250'
-  score: 4
-  name: 一起作业
-- id: '+199'
-  score: 4
-  name: 点我达
-- id: '+413'
-  score: 3
-  name: 京东
-- id: '+590'
-  score: 3
-  name: '天地伟业 （友商榜上都有，瞧不起我们全国第3咋滴）'
-- id: '+144'
-  score: 3
-  name: 淘贝
-- id: '+323'
-  score: 3
-  name: 群硕软件
-- id: '+497'
-  score: 3
-  name: 华为传送网部门
-- id: '+139'
-  score: 3
-  name: 深圳奥术科技
-- id: '+346'
-  score: 3
-  name: 'gishere 云南这里信息技术有限公司  我们一起在公司迎接朝阳 一起相依为命'
-- id: '+632'
-  score: 3
-  name: 深圳市前海优普易网络科技有限公司
-- id: '+395'
-  score: 3
-  name: 乐视
-- id: '+207'
-  score: 3
-  name: 好未来
-- id: '+237'
-  score: 3
-  name: 拼多多
-- id: '+397'
-  score: 3
-  name: 初见科技
-- id: '+260'
-  score: 3
-  name: 南京掌控网络科技有限公司
-- id: '+378'
-  score: 3
-  name: 寻医问药网
-- id: '+294'
-  score: 3
-  name: 天眼查
-- id: '+552'
-  score: 3
-  name: 跨越速运
-- id: '+419'
-  score: 3
-  name: 杭州网易
-- id: '+385'
-  score: 3
-  name: 中科软
-- id: '+477'
-  score: 3
-  name: 大疆
-- id: '+117'
-  score: 3
-  name: 上海优唯市场研究咨询有限公司
-- id: '+112'
-  score: 3
-  name: 智造链
-- id: '+520'
-  score: 3
-  name: 北京储易智慧科技有限公司
-- id: '+129'
-  score: 3
-  name: 微医
-- id: '+119'
-  score: 3
-  name: DepthsData
-- id: '+72'
-  score: 3
-  name: BYD
-- id: '+246'
-  score: 3
-  name: 团贷网
-- id: '+104'
-  score: 3
-  name: 上海益民食品厂
-- id: '+310'
-  score: 3
-  name: 华为北研所网络产品线
-- id: '+534'
-  score: 3
-  name: '【解决方法】现在点击某一个投票，会直接跳出来一个图片，上面写着QQxxx，什么hacked by xxx'
-- id: '+77'
-  score: 3
-  name: 觅上（北京）科技有限公司
-- id: '+184'
-  score: 3
-  name: 上海闻泰
-- id: '+373'
-  score: 2
-  name: 汽车之家
-- id: '+236'
-  score: 2
-  name: 银联数据中心
-- id: '+88'
-  score: 2
-  name: 中广热点云
-- id: '+161'
-  score: 2
-  name: 涂游游戏
-- id: '+102'
-  score: 2
-  name: 膜法世家
-- id: '+233'
-  score: 2
-  name: 启迪
-- id: '+519'
-  score: 2
-  name: '东方头条  经常加班到十点以后 周六日加班看老板心情'
-- id: '+94'
-  score: 2
-  name: 成都力比
-- id: '+613'
-  score: 2
-  name: 北京刷刷看网络科技有限公司
-- id: '+321'
-  score: 2
-  name: 海马玩
-- id: '+222'
-  score: 2
-  name: 去哪儿网
-- id: '+347'
-  score: 2
-  name: tap4fun(tik实验室)
-- id: '+314'
-  score: 2
-  name: 海底捞
-- id: '+186'
-  score: 2
-  name: 众泰汽车皮尺部
-- id: '+502'
-  score: 2
-  name: 北京光合起源
-- id: '+398'
-  score: 2
-  name: 品创时代
-- id: '+275'
-  score: 2
-  name: 网易考拉
-- id: '+95'
-  score: 2
-  name: 成都虎娱
-- id: '+449'
-  score: 2
-  name: 华为，研发部门（996在华为只能算中等强度，忙的通宵很常见）
-- id: '+358'
-  score: 2
-  name: '华为NCE  [906,907]'
-- id: '+70'
-  score: 2
-  name: 北京渔塘软件科技有限公司
-- id: '+345'
-  score: 2
-  name: '广州 臭名昭著的外包(强制996,只有周末加班才算,平时的加班没有任何补休)'
-- id: '+434'
-  score: 2
-  name: e修鸽(杭州)
-- id: '+352'
-  score: 2
-  name: 迅实芯
-- id: '+383'
-  score: 2
-  name: 深圳中证云星智慧物联-9106
-- id: '+262'
-  score: 2
-  name: 启迪国信
-- id: '+307'
-  score: 2
-  name: 盘石网盟
-- id: '+628'
-  score: 2
-  name: 铭师堂-开课啦直播事业部-产品研发部门
-- id: '+343'
-  score: 2
-  name: OYO(China)
-- id: '+198'
-  score: 2
-  name: 顺丰
-- id: '+578'
-  score: 2
-  name: 北京开天创世科技有限公司
-- id: '+339'
-  score: 2
-  name: 北京金睛云华科技有限公司
-- id: '+195'
-  score: 2
-  name: 擎盾科技
-- id: '+166'
-  score: 2
-  name: 车主邦
-- id: '+130'
-  score: 2
-  name: 焦点教育
-- id: '+457'
-  score: 2
-  name: '有云科技 小马哥 早9晚10 996 钱少事多 洗脑 千万别来'
-- id: '+143'
-  score: 2
-  name: 马蜂窝
-- id: '+391'
-  score: 2
-  name: hismart
-- id: '+93'
-  score: 2
-  name: 成都天上友嘉
-- id: '+488'
-  score: 2
-  name: 深圳道通科技有限公司
-- id: '+110'
-  score: 2
-  name: jiangsuhx
-- id: '+605'
-  score: 2
-  name: 德邦物流（大小休，搞加班时长排名）
-- id: '+503'
-  score: 2
-  name: 京东到家
-- id: '+586'
-  score: 2
-  name: 深圳麦田网络科技
-- id: '+386'
-  score: 2
-  name: 万兴科技
-- id: '+583'
-  score: 2
-  name: '来活捉一下进行注入的贱人 [ 兄弟们，一起来搞一下 ] '
-- id: '+359'
-  score: 2
-  name: 合力亿捷
-- id: '+167'
-  score: 2
-  name: 重庆水泵厂有限责任公司研发中心
-- id: '+430'
-  score: 2
-  name: 北京诵读文化发展有限公司
-- id: '+461'
-  score: 2
-  name: 猎户星空（大小周）
-- id: '+417'
-  score: 2
-  name: 浪潮
-- id: '+64'
-  score: 2
-  name: 云来科技
-- id: '+298'
-  score: 2
-  name: 远景能源（远景智能）
-- id: '+100'
-  score: 2
-  name: '4399'
-- id: '+514'
-  score: 2
-  name: 中软国际
-- id: '+261'
-  score: 2
-  name: 腾讯互娱
-- id: '+454'
-  score: 2
-  name: 深圳奥哲网络科技有限公司
-- id: '+330'
-  score: 1
-  name: 深圳猜猜城
-- id: '+390'
-  score: 1
-  name: 武汉威泰科技
-- id: '+468'
-  score: 1
-  name: 平安科技（深圳）
-- id: '+542'
-  score: 1
-  name: 尊豪网络9106
-- id: '+550'
-  score: 1
-  name: '普联软件股份有限公司 石油事业部'
-- id: '+190'
-  score: 1
-  name: Rela
-- id: '+175'
-  score: 1
-  name: 深圳鑫喆电子科技
-- id: '+331'
-  score: 1
-  name: 日本关东金现代
-- id: '+569'
-  score: 1
-  name: 中译语通科技有限公司
-- id: '+500'
-  score: 1
-  name: 深圳市环球易购
-- id: '+341'
-  score: 1
-  name: 360路由10127
-- id: '+164'
-  score: 1
-  name: 杭州斯第姆
-- id: '+209'
-  score: 1
-  name: 火星唐斯任辽科技有限公司
-- id: '+355'
-  score: 1
-  name: 南京杰迈视讯
-- id: '+338'
-  score: 1
-  name: 澜极智谷科技
-- id: '+197'
-  score: 1
-  name: 云鸟
-- id: '+400'
-  score: 1
-  name: Tokeninsight
-- id: '+344'
-  score: 1
-  name: 深圳追一科技有限公司
-- id: '+581'
-  score: 1
-  name: 来个防注入补丁吧
-- id: '+226'
-  score: 1
-  name: 'PWC GTS-IFS(普华永道IT部门)'
-- id: '+362'
-  score: 1
-  name: 成都柠檬云（kucoin）
-- id: '+525'
-  score: 1
-  name: 兴业数字金融服务（上海）股份有限公司
-- id: '+470'
-  score: 1
-  name: 平安科技（深圳）
-- id: '+107'
-  score: 1
-  name: 轻轻家教
-- id: '+625'
-  score: 1
-  name: 平安城科
-- id: '+114'
-  score: 1
-  name: 北京-快陪练
-- id: '+329'
-  score: 1
-  name: 点我达
-- id: '+482'
-  score: 1
-  name: 科大讯飞
-- id: '+493'
-  score: 1
-  name: 贵阳朗玛
-- id: '+476'
-  score: 1
-  name: 阿里云外包
-- id: '+483'
-  score: 1
-  name: 多益网络
-- id: '+268'
-  score: 1
-  name: 贝壳
-- id: '+530'
-  score: 1
-  name: 北京永航科技有限公司
-- id: '+595'
-  score: 1
-  name: 猎豹移动（珠海，经常周六加班）
-- id: '+540'
-  score: 1
-  name: 深圳乐摇摇科技有限公司
-- id: '+481'
-  score: 1
-  name: '第一弹 —— 上海'
-- id: '+220'
-  score: 1
-  name: 鲜果多
-- id: '+173'
-  score: 1
-  name: 天喻教育
-- id: '+56'
-  score: 1
-  name: 稻禾信息科技
-- id: '+140'
-  score: 1
-  name: 北京百乘集团
-- id: '+303'
-  score: 1
-  name: 众安
-- id: '+116'
-  score: 1
-  name: pu蓝科技
-- id: '+548'
-  score: 1
-  name: 广州黑胡子游戏开发公司
-- id: '+492'
-  score: 1
-  name: 高思教育
-- id: '+599'
-  score: 1
-  name: 杭州飞步科技公司
-- id: '+585'
-  score: 1
-  name: 江苏省苏州第一中学校
-- id: '+216'
-  score: 1
-  name: 上海火魂
-- id: '+351'
-  score: 1
-  name: 南京坦道信息科技有限公司
-- id: '+278'
-  score: 1
-  name: 上海理想
-- id: '+509'
-  score: 1
-  name: 广州溜溜云科技有限公司
-- id: '+441'
-  score: 1
-  name: 'KDC - 深圳市康达兴电子有限公司'
-- id: '+619'
-  score: 1
-  name: ''
-- id: '+610'
-  score: 1
-  name: '广州要玩娱乐&上海要玩娱乐'
-- id: '+549'
-  score: 1
-  name: 酷狗
-- id: '+388'
-  score: 1
-  name: '成都西山居世游 995'
-- id: '+490'
-  score: 1
-  name: 深圳朗仁科技
-- id: '+308'
-  score: 1
-  name: 博智林机器人
-- id: '+295'
-  score: 1
-  name: 广州百游科技有限公司
-- id: '+533'
-  score: 1
-  name: 安徽双骏智能科技
-- id: '+125'
-  score: 1
-  name: 格事化
-- id: '+543'
-  score: 1
-  name: dianp
-- id: '+65'
-  score: 1
-  name: 众安国际
-- id: '+276'
-  score: 1
-  name: 重庆嗨走科技有限公司
-- id: '+212'
-  score: 1
-  name: 志杰
-- id: '+366'
-  score: 1
-  name: 一点
-- id: '+185'
-  score: 1
-  name: 浙江蚁加科技
-- id: '+465'
-  score: 1
-  name: 瑞祥装饰
-- id: '+487'
-  score: 1
-  name: 慧安金科
-- id: '+440'
-  score: 1
-  name: 姿美堂
-- id: '+597'
-  score: 1
-  name: 'robosense 深圳市速腾聚创科技有限公司'
-- id: '+152'
-  score: 1
-  name: 中原银行
-- id: '+354'
-  score: 1
-  name: '乐融集团(原乐视le) '
-- id: '+324'
-  score: 1
-  name: 山东国子软件股份有限公司
-- id: '+103'
-  score: 1
-  name: 北京积沙成塔
-- id: '+627'
-  score: 1
-  name: 网易严选
-- id: '+617'
-  score: 1
-  name: '联影医疗 RT部门'
-- id: '+609'
-  score: 1
-  name: 大汉网络有限公司
-- id: '+495'
-  score: 1
-  name: 天上人间
-- id: '+286'
-  score: 1
-  name: '上海 汉得 物联网与云事业部'
-- id: '+466'
-  score: 1
-  name: 360大数据
-- id: '+124'
-  score: 1
-  name: 武汉格事化信息技术有限公司
-- id: '+567'
-  score: 1
-  name: 杭州半云科技有限公司
-- id: '+598'
-  score: 1
-  name: 联影智能
-- id: '+412'
-  score: 1
-  name: EasyAPI
-- id: '+178'
-  score: 1
-  name: 重庆霏微
-- id: '+406'
-  score: 1
-  name: 海信聚好看
-- id: '+505'
-  score: 1
-  name: 东华
-- id: '+240'
-  score: 1
-  name: 阡陌游戏
-- id: '+291'
-  score: 1
-  name: 杭州高街科技
-- id: '+393'
-  score: 1
-  name: 平安科技（深圳）
-- id: '+574'
-  score: 1
-  name: 连尚科技
-- id: '+270'
-  score: 1
-  name: 成都西米互动科技有限公司
-- id: '+254'
-  score: 1
-  name: 搜狗
-- id: '+635'
-  score: 1
-  name: 杭州一修鸽科技有限公司
-- id: '+111'
-  score: 1
-  name: 杭州会搜科技
-- id: '+498'
-  score: 1
-  name: 长沙泽宝网络有限公司
-- id: '+526'
-  score: 1
-  name: 交通银行总行（位于上海）
-- id: '+633'
-  score: 1
-  name: 北京首钢自动化信息有限公司
-- id: '+304'
-  score: 1
-  name: 蓝鸽集团
-- id: '+68'
-  score: 1
-  name: 方欣科技
-- id: '+223'
-  score: 1
-  name: 平安医疗
-- id: '+462'
-  score: 1
-  name: 蚂蚁金服
-- id: '+557'
-  score: 1
-  name: 浦发银行科技部
-- id: '+203'
-  score: 1
-  name: 上海上上德盛集团
-- id: '+379'
-  score: 1
-  name: 正和岛
-- id: '+115'
-  score: 1
-  name: 江苏鸿信
-- id: '+524'
-  score: 1
-  name: 小站教育
-- id: '+225'
-  score: 1
-  name: 江苏有个车
-- id: '+357'
-  score: 1
-  name: '近铁国际物流（深圳） ISD部门'
-- id: '+420'
-  score: 1
-  name: 科达科技
-- id: '+622'
-  score: 1
-  name: 友塔，乐其，乐麦，墨灿
-- id: '+353'
-  score: 1
-  name: 汉雅星空文化科技有限公司
-- id: '+491'
-  score: 1
-  name: 深圳道通科技
-- id: '+255'
-  score: 1
-  name: 第七大道
-- id: '+387'
-  score: 1
-  name: 美亚柏科
-- id: '+269'
-  score: 1
-  name: 网易游戏事业部
-- id: '+428'
-  score: 1
-  name: 北京融顺网络科技公司（e兼职）
-- id: '+384'
-  score: 1
-  name: 爱换机
-- id: '+429'
-  score: 1
-  name: 税友
-- id: '+528'
-  score: 1
-  name: 深圳市朗特伟业科技有限公司
-- id: '+264'
-  score: 1
-  name: 灵游互娱
-- id: '+553'
-  score: 1
-  name: 给大家推荐一个良心企业，中智关爱通，国资委下面的直属央企，每周965，工作很好
-- id: '+394'
-  score: 1
-  name: 中兴
-- id: '+414'
-  score: 1
-  name: 'Deloitte Consulting 德勤咨询（上海）管理咨询有限公司'
-- id: '+172'
-  score: 1
-  name: 云集
-- id: '+218'
-  score: 1
-  name: 千丁互联
-- id: '+375'
-  score: 1
-  name: 上海巨人网络
-- id: '+141'
-  score: 1
-  name: 杭州婚礼纪
-- id: '+369'
-  score: 1
-  name: 长沙中融汇智
-- id: '+484'
-  score: 1
-  name: 深圳领格网络
-- id: '+333'
-  score: 1
-  name: 上海思满软件科技
-- id: '+546'
-  score: 1
-  name: 北京华宇信息技术有限公司
-- id: '+242'
-  score: 1
-  name: 微信
-- id: '+292'
-  score: 1
-  name: 广州市圣湘琳信息科技有限责任公司
-- id: '+228'
-  score: 1
-  name: 深圳爱加密科技有限公司
-- id: '+489'
-  score: 1
-  name: 金科哲信
-- id: '+618'
-  score: 1
-  name: 义乌香格里拉大酒店
-- id: '+531'
-  score: 1
-  name: 盛大（盛趣）游戏
-- id: '+506'
-  score: 1
-  name: 北京青云互动科技有限公司
-- id: '+555'
-  score: 1
-  name: 平安科技
-- id: '+301'
-  score: 1
-  name: 北京思源企通集团
-- id: '+433'
-  score: 1
-  name: 凤凰网
-- id: '+402'
-  score: 1
-  name: 路索亚网络
-- id: '+156'
-  score: 1
-  name: 盈超科技有限公司
-- id: '+204'
-  score: 1
-  name: 思源企通集团
-- id: '+404'
-  score: 1
-  name: 租租车
-- id: '+389'
-  score: 1
-  name: 重庆紫光华智
-- id: '+453'
-  score: 1
-  name: '一亩田（APP部门，996 美其名倒休，就是耍流氓）'
-- id: '+451'
-  score: 1
-  name: 苏州凌志软件股份有限公司
-- id: '+536'
-  score: 1
-  name: '短地址 http://996-votes.icu/'
-- id: '+305'
-  score: 1
-  name: 网联清算
-- id: '+588'
-  score: 1
-  name: 有电物联
-- id: '+442'
-  score: 1
-  name: 乐道互动（完美世界子公司）
-- id: '+464'
-  score: 1
-  name: inspur浪潮
-- id: '+629'
-  score: 1
-  name: 铭师堂-开课啦直播事业部-产品研发部门
-- id: '+168'
-  score: 1
-  name: 北京信息科技大学-智能信息处理研究所
-- id: '+568'
-  score: 1
-  name: 'EADG 景观设计 加班通宵 无调休无补贴 '
-- id: '+422'
-  score: 1
-  name: 广东创能科技有限公司
-- id: '+213'
-  score: 1
-  name: 小年糕
-- id: '+235'
-  score: 1
-  name: 银联开发中心
-- id: '+287'
-  score: 1
-  name: 香侬科技
-- id: '+571'
-  score: 1
-  name: 請處理XSS問題
-- id: '+356'
-  score: 1
-  name: 运满满
-- id: '+480'
-  score: 1
-  name: 税友软件
-- id: '+401'
-  score: 1
-  name: 江苏慧物数据科技有限公司
-- id: '+206'
-  score: 1
-  name: 优倍快
-- id: '+320'
-  score: 1
-  name: 北京海誉动想科技股份有限公司
-- id: '+297'
-  score: 0
-  name: 赞同科技
-- id: '+415'
-  score: 0
-  name: 同程旅游
-- id: '+478'
-  score: 0
-  name: 北京妙医佳信息技术有限公司
-- id: '+162'
-  score: 0
-  name: 咔哒故事
-- id: '+623'
-  score: 0
-  name: 'test <!-- ...'
-- id: '+517'
-  score: 0
-  name: 途家网
-- id: '+582'
-  score: 0
-  name: 明日世界网络科技
-- id: '+336'
-  score: 0
-  name: 金证股份
-- id: '+626'
-  score: 0
-  name: 便利蜂
-- id: '+334'
-  score: 0
-  name: 建议给公司前面加上省市方便搜索
-- id: '+594'
-  score: 0
-  name: 北京美凯达教育(朴新教育)
-- id: '+512'
-  score: 0
-  name: 龙腾睿昊
-- id: '+180'
-  score: 0
-  name: 百特菲
-- id: '+409'
-  score: 0
-  name: '996 kills programmer'
-- id: '+19'
-  score: 0
-  name: 广州探迹（舍友探迹，每晚12点是常态）
-- id: '+427'
-  score: 0
-  name: '江苏的一些工厂， 全年无休'
-- id: '+616'
-  score: 0
-  name: ''
-- id: '+580'
-  score: 0
-  name: 爱回收
-- id: '+637'
-  score: 0
-  name: '1'
-- id: '+608'
-  score: 0
-  name: ''
-- id: '+316'
-  score: 0
-  name: 海豚村
-- id: '+485'
-  score: 0
-  name: 初家心选
-- id: '+403'
-  score: 0
-  name: 深圳易佰网络有限公司
-- id: '+313'
-  score: 0
-  name: Wayhold微乎科技
-- id: '+418'
-  score: 0
-  name: 慧安金科
-- id: '+425'
-  score: 0
-  name: 深圳众德尔有限公司
-- id: '+566'
-  score: 0
-  name: 中国银行软件中心上海分中心
-- id: '+545'
-  score: 0
-  name: 奥基电商
-- id: '+515'
-  score: 0
-  name: 建议加上公司规模，技术团队规模，加班人数占比
-- id: '+587'
-  score: 0
-  name: Bt学院
-- id: '+486'
-  score: 0
-  name: 永兴达
-- id: '+529'
-  score: 0
-  name: 上海太屋网络科技有限公司（太平洋房屋it部门）
-- id: '+565'
-  score: 0
-  name: 新氧科技
-- id: '+601'
-  score: 0
-  name: '那个你们996的大厂还缺人吗 可以3天3夜连续coding的那种'
-- id: '+257'
-  score: 0
-  name: 陆金所
-- id: '+584'
-  score: 0
-  name: 科达
-- id: '+374'
-  score: 0
-  name: 税友
-- id: '+591'
-  score: 0
-  name: '66666666666'
-- id: '+573'
-  score: 0
-  name: 中国河南省开封市杞县高中附属中学（过去叫做城关一中）
-- id: '+600'
-  score: 0
-  name: 致医健康
-- id: '+547'
-  score: 0
-  name: 北京悟空保科技有限公司
-- id: '+602'
-  score: 0
-  name: '那个你们996的大厂还缺人吗 可以3天3夜连续coding的那种'
-- id: '+459'
-  score: 0
-  name: 快陪练
-- id: '+200'
-  score: 0
-  name: 知象科技
-- id: '+349'
-  score: 0
-  name: ''
-- id: '+456'
-  score: 0
-  name: 潍柴动力股份有限公司
-- id: '+561'
-  score: 0
-  name: ''
-- id: '+631'
-  score: 0
-  name: 滴普科技
-- id: '+596'
-  score: 0
-  name: ''
-- id: '+302'
-  score: 0
-  name: 奇点金服
-- id: '+558'
-  score: 0
-  name: 随手记
-- id: '+614'
-  score: 0
-  name: hahah
-- id: '+564'
-  score: 0
-  name: 请求以xss反制xss，另请求将此条顶置
-- id: '+620'
-  score: 0
-  name: 网易
-- id: '+607'
-  score: 0
-  name: 深圳市萌蛋互动网络有限公司
-- id: '+510'
-  score: 0
-  name: 南京法奔信息科技有限公司
-- id: '+539'
-  score: 0
-  name: welab（我来贷）
-- id: '+554'
-  score: 0
-  name: 优必选
-- id: '+438'
-  score: 0
-  name: 游族网络
-- id: '+606'
-  score: 0
-  name: 深圳肃羽网络有限公司
-- id: '+636'
-  score: 0
-  name: ''
-- id: '+576'
-  score: 0
-  name: 中国河南省郑州市第七中学
-- id: '+396'
-  score: 0
-  name: 人人优品
-- id: '+612'
-  score: 0
-  name: ''
-- id: '+256'
-  score: 0
-  name: 吉利
-- id: '+363'
-  score: 0
-  name: 成都西瓜创客
-- id: '+364'
-  score: 0
-  name: 思维造物
-- id: '+541'
-  score: 0
-  name: 广州易健科技
-- id: '+592'
-  score: 0
-  name: 锐捷网络
-- id: '+521'
-  score: 0
-  name: 知乎
-- id: '+527'
-  score: 0
-  name: 运满满（之前六天班，现在大小周）
-- id: '+544'
-  score: 0
-  name: 有棵树
-- id: '+579'
-  score: 0
-  name: 换换优品
-- id: '+522'
-  score: 0
-  name: 乐7664
-- id: '+575'
-  score: 0
-  name: '中国河北衡水中学（Hengshui High School of Hebei）'
-- id: '+556'
-  score: 0
-  name: 招商银行科技部
-- id: '+258'
-  score: 0
-  name: 微众银行
-- id: '+494'
-  score: 0
-  name: 深圳点滴时光科技有限公司
-- id: '+155'
-  score: 0
-  name: opentext
-- id: '+367'
-  score: 0
-  name: 南京互兴
-- id: '+513'
-  score: 0
-  name: 广州溜溜云科技有限公司
-- id: '+342'
-  score: 0
-  name: anonymity
-- id: '+443'
-  score: 0
-  name: 泉州云牧科技
-- id: '+570'
-  score: 0
-  name: 小站教育-上海
-- id: '+604'
-  score: 0
-  name: ''
-- id: '+640'
-  score: 0
-  name: 蓝韵
-- id: '+426'
-  score: 0
-  name: 众德尔有限公司
-- id: '+551'
-  score: 0
-  name: 约约出行
-- id: '+157'
-  score: 0
-  name: 伟创迪安
-- id: '+499'
-  score: 0
-  name: 深圳市泽宝电子商务股份有限公司
-- id: '+639'
-  score: 0
-  name: 删除
-- id: '+328'
-  score: 0
-  name: 北京海誉动想
-- id: '+446'
-  score: 0
-  name: Sonicwall
-- id: '+473'
-  score: 0
-  name: 全民快乐
-- id: '+589'
-  score: 0
-  name: ''
-- id: '+615'
-  score: 0
-  name: JYM
-- id: '+572'
-  score: 0
-  name: 中国河南省开封市杞县东关小学
-- id: '+621'
-  score: 0
-  name: 搜狐畅游
-- id: '+538'
-  score: 0
-  name: ''
-- id: '+444'
-  score: 0
-  name: bjhd
-- id: '+603'
-  score: 0
-  name: ''
-- id: '+360'
-  score: 0
-  name: 北京国电通网络技术有限公司
-- id: '+624'
-  score: 0
-  name: Soul
-- id: '+611'
-  score: 0
-  name: 人人网
-- id: '+332'
-  score: 0
-  name: 厦门攸信
-- id: '+238'
-  score: 0
-  name: 厦门盈趣
-- id: '+537'
-  score: 0
-  name: 浩鲸云计算机科技股份有限公司
-- id: '+247'
-  score: 0
-  name: 好未来-爱智康
-- id: '+170'
-  score: 0
-  name: 江苏淳克网络
-- id: '+496'
-  score: 0
-  name: 深圳沃感科技
-- id: '+399'
-  score: 0
-  name: 快手
-- id: '+641'
-  score: 0
-  name: ''
-- id: '+217'
-  score: 0
-  name: 深圳市网信数码科技有限公司
-- id: '+535'
-  score: 0
-  name: 新湃科技（宁波）科技有限公司（已改名为【咪呀科技(宁波)有限公司】）
-- id: '+638'
-  score: 0
-  name: ''
-- id: '+563'
-  score: 0
-  name: GrowingIO
-- id: '+271'
-  score: 0
-  name: '贵阳语玩 公司在北京'
-- id: '+407'
-  score: 0
-  name: 深圳悠哉网络科技有限公司
-- id: '+410'
-  score: 0
-  name: 杭州智趣智能
-- id: '+634'
-  score: 0
-  name: 汽车之家
-- id: '+382'
-  score: 0
-  name: 第一宇宙科技
-- id: '+630'
-  score: 0
-  name: APUS
-- id: '+463'
-  score: 0
-  name: '享开就开汽车有限公司 （沃特玛创新联盟）'
-- id: '+376'
-  score: 0
-  name: 租租车
-- id: '+214'
-  score: 0
-  name: 火魂
-- id: '+450'
-  score: 0
-  name: 新东方在线
-- id: '+577'
-  score: 0
-  name: 中国河南省开封市杞县高中
-- id: '+593'
-  score: 0
-  name: ''
-- id: '+312'
-  score: 0
-  name: 宝尊
-- id: '+511'
-  score: 0
-  name: 深圳卡荟科技
-- id: '+469'
-  score: -1
-  name: 爱立信
-- id: '+559'
-  score: -1
-  name: ''
-- id: '+368'
-  score: -1
-  name: 爱奇艺
-- id: '+405'
-  score: -1
-  name: 闻澜文化
-- id: '+560'
-  score: -1
-  name: 美柚
-- id: '+432'
-  score: -1
-  name: 中元国际
-- id: '+315'
-  score: -4
-  name: 洛谷
-- id: '+182'
-  score: -11
-  name: 王凯
-- id: '+309'
-  score: -12
-  name: 'ThoughtWorks - 从来没加过班'
-- id: '+151'
-  score: -34
-  name: 浙江温州江南皮革厂
+- name: 百安居
+  city: 上海
+  rule: '996'
+  evidences: []
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%99%BE%E5%AE%89%E5%B1%85&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%99%BE%E5%AE%89%E5%B1%85&og:title=996List'
+  date: 2019年6月
+- name: 拼多多
+  city: 上海
+  rule: 11116、两班倒
+  evidences:
+    - title: 996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠
+      href: 'http://www.taobao92.com/thread-1313-1-1.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%8B%BC%E5%A4%9A%E5%A4%9A&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%8B%BC%E5%A4%9A%E5%A4%9A&og:title=996List'
+  date: 2019年2月
+- name: 盛赫游戏
+  city: 上海
+  rule: 大小周
+  evidences:
+    - title: boss直聘
+      href: 'https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%9B%9B%E8%B5%AB%E6%B8%B8%E6%88%8F&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%9B%9B%E8%B5%AB%E6%B8%B8%E6%88%8F&og:title=996List'
+  date: 2019年3月
+- name: 砸立
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%A0%B8%E7%AB%8B&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%A0%B8%E7%AB%8B&og:title=996List'
+  date: 2019年1月
+- name: 游族网络
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: '你为什么从游族离职?-知乎'
+      href: 'https://www.zhihu.com/question/22411680?sort=created'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C&og:title=996List'
+  date: 2018年3月
+- name: 蝴蝶互动
+  city: 上海
+  rule: '966'
+  evidences:
+    - title: 知乎：如何评价蝴蝶互动？
+      href: 'https://www.zhihu.com/question/40858342/answer/616999472'
+    - title: 聊天记录截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8-%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95.png'
+    - title: 所受委>托资料-0
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8-%E6%8A%A5%E5%91%8A%E5%A7%94%E6%89%98%E6%88%AA%E5%9B%BE-0.jpg'
+    - title: 所受委托资料-1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8-%E6%8A%A5%E5%91%8A%E5%A7%94%E6%89%98%E6%88%AA%E5%9B%BE-1.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%9D%B4%E8%9D%B6%E4%BA%92%E5%8A%A8&og:title=996List'
+  date: 2019年2月
+- name: 上海联影医疗科技有限公司
+  city: 上海
+  rule: 996、无加班费
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6045694.html'
+    - title: CSDN
+      href: 'https://bbs.csdn.net/topics/380214818'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6212987.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%8A%E6%B5%B7%E8%81%94%E5%BD%B1%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%8A%E6%B5%B7%E8%81%94%E5%BD%B1%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月4日
+- name: 依图网络科技有限公司
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/300132949/answer/606529193'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BE%9D%E5%9B%BE%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BE%9D%E5%9B%BE%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月5日
+- name: 饿了么
+  city: 上海
+  rule: '996 or 997'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%A5%BF%E4%BA%86%E4%B9%88&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%A5%BF%E4%BA%86%E4%B9%88&og:title=996List'
+  date: 2019年4月7日
+- name: 德邦物流
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr16378tl56.html?ka=review-label9'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%BE%B7%E9%82%A6%E7%89%A9%E6%B5%81&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%BE%B7%E9%82%A6%E7%89%A9%E6%B5%81&og:title=996List'
+  date: 2019年4月7日
+- name: 兴业数字金融服务
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr6355543tl526.html?ka=review-label4'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%85%B4%E4%B8%9A%E6%95%B0%E5%AD%97%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%85%B4%E4%B8%9A%E6%95%B0%E5%AD%97%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1&og:title=996List'
+  date: 2019年4月7日
+- name: 小红书
+  city: 上海
+  rule: '1095'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B0%8F%E7%BA%A2%E4%B9%A6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B0%8F%E7%BA%A2%E4%B9%A6&og:title=996List'
+  date: 2019年4月7日
+- name: 依图科技
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1669492tl526.html?ka=review-label13'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BE%9D%E5%9B%BE%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BE%9D%E5%9B%BE%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月7日
+- name: 上海壹米滴答供应链管理有限公司
+  city: 上海
+  rule: 大小周
+  evidences:
+    - title: 壹米滴答日历
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/yimidida.jpeg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%8A%E6%B5%B7%E5%A3%B9%E7%B1%B3%E6%BB%B4%E7%AD%94%E4%BE%9B%E5%BA%94%E9%93%BE%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%8A%E6%B5%B7%E5%A3%B9%E7%B1%B3%E6%BB%B4%E7%AD%94%E4%BE%9B%E5%BA%94%E9%93%BE%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月8日
+- name: 金杜律师事务所
+  city: 上海
+  rule: 早10晚6但基本9点以后下班，周末给任务，请假给任务
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr14366.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%87%91%E6%9D%9C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%87%91%E6%9D%9C%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80&og:title=996List'
+  date: 2019年4月8日
+- name: 上海鱼泡泡信息科技有限公司
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 脉脉
+      href: 'https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%8A%E6%B5%B7%E9%B1%BC%E6%B3%A1%E6%B3%A1%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%8A%E6%B5%B7%E9%B1%BC%E6%B3%A1%E6%B3%A1%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年12月
+- name: 掌门一对一教育有限公司
+  city: 上海
+  rule: 大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7018849.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%8E%8C%E9%97%A8%E4%B8%80%E5%AF%B9%E4%B8%80%E6%95%99%E8%82%B2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%8E%8C%E9%97%A8%E4%B8%80%E5%AF%B9%E4%B8%80%E6%95%99%E8%82%B2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 七牛云
+  city: 上海
+  rule: 995、裁员
+  evidences:
+    - title: Boss直聘
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91995.jpg'
+    - title: 脉脉
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91%E8%A3%81%E5%91%981.jpg'
+    - title: 脉脉
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91%E8%A3%81%E5%91%982.jpg'
+    - title: 脉脉
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E4%B8%83%E7%89%9B%E4%BA%91%E8%A3%81%E5%91%983.jpg'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7147841.html?ka=comreview-result1'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%83%E7%89%9B%E4%BA%91&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%83%E7%89%9B%E4%BA%91&og:title=996List'
+  date: 2018年11月
+- name: 邻趣网络有限公司
+  city: 上海
+  rule: '995'
+  evidences:
+    - title: 工作群截图1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%82%BB%E8%B6%A3%E5%B7%A5%E4%BD%9C%E7%BE%A4%E6%88%AA%E5%9B%BE.jpeg'
+    - title: 工作群截图2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%82%BB%E8%B6%A3%E5%B7%A5%E4%BD%9C%E7%BE%A4%E6%88%AA%E5%9B%BE2.jpeg'
+    - title: 工作群截图3
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%82%BB%E8%B6%A3%E5%B7%A5%E4%BD%9C%E7%BE%A4%E6%88%AA%E5%9B%BE3.jpeg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%82%BB%E8%B6%A3%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%82%BB%E8%B6%A3%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年9月
+- name: 步步高
+  city: 东莞
+  rule: '8106 ！'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%A5%E6%AD%A5%E9%AB%98&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%A5%E6%AD%A5%E9%AB%98&og:title=996List'
+  date: 2019年4月7日
+- name: 美的集团
+  city: 佛山
+  rule: 996大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2&og:title=996List'
+  date: 2019年4月7日
+- name: 京东
+  city: 北京
+  rule: '995'
+  evidences:
+    - title: '京东回应995工作制：不会强制要求 但要全情投入'
+      href: 'http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html'
+    - title: 刘强东内部邮件称要淘汰或协商解决掉“三种人”
+      href: 'https://i.loli.net/2019/04/02/5ca2e8727f213.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BA%AC%E4%B8%9C&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BA%AC%E4%B8%9C&og:title=996List'
+  date: 2019年3月
+- name: 58同城
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: '58同城实行全员996工作制 被指意图逼员工主动辞职'
+      href: 'http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=58%E5%90%8C%E5%9F%8E&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=58%E5%90%8C%E5%9F%8E&og:title=996List'
+  date: 2019年4月7日
+- name: 途家网
+  city: 北京
+  rule: '897'
+  evidences:
+    - title: 暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料
+      href: 'https://www.tujia.xyz/'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%80%94%E5%AE%B6%E7%BD%91&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%80%94%E5%AE%B6%E7%BD%91&og:title=996List'
+  date: 2017年12月
+- name: 每日优鲜
+  city: 北京
+  rule: 007/996
+  evidences:
+    - title: 'app更新记录,大肆鼓吹996'
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%AF%8F%E6%97%A5%E4%BC%98%E9%B2%9C%E9%BC%93%E5%90%B9996.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AF%8F%E6%97%A5%E4%BC%98%E9%B2%9C&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AF%8F%E6%97%A5%E4%BC%98%E9%B2%9C&og:title=996List'
+  date: '-----'
+- name: 字节跳动
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网1
+      href: 'https://www.kanzhun.com/gsr5622411tl56.html'
+    - title: 看准网2
+      href: 'https://www.kanzhun.com/pl6583181.html'
+    - title: 搜狐
+      href: 'https://www.sohu.com/a/256795805_231667'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8&og:title=996List'
+  date: 2017年7月
+- name: 用友
+  city: 北京
+  rule: '997'
+  evidences:
+    - title: '在用友工作是怎样一番体验？ - 知乎'
+      href: 'https://www.zhihu.com/question/26683235'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%94%A8%E5%8F%8B&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%94%A8%E5%8F%8B&og:title=996List'
+  date: 2018年12月
+- name: 神策数据
+  city: 北京
+  rule: 大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6409927.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%A5%9E%E7%AD%96%E6%95%B0%E6%8D%AE&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%A5%9E%E7%AD%96%E6%95%B0%E6%8D%AE&og:title=996List'
+  date: 2019年3月
+- name: 中软国际
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 智联招聘
+      href: 'https://jobs.zhaopin.com/CC508620126J00303154805.htm'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%AD%E8%BD%AF%E5%9B%BD%E9%99%85&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%AD%E8%BD%AF%E5%9B%BD%E9%99%85&og:title=996List'
+  date: 2019年3月
+- name: 柯莱特
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 智联招聘
+      href: 'https://jobs.zhaopin.com/CC120179637J00117070515.htm'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%9F%AF%E8%8E%B1%E7%89%B9&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%9F%AF%E8%8E%B1%E7%89%B9&og:title=996List'
+  date: 2019年3月
+- name: 高伟达
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 智联招聘
+      href: 'https://jobs.zhaopin.com/CC120702341J00114014810.htm'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%AB%98%E4%BC%9F%E8%BE%BE&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%AB%98%E4%BC%9F%E8%BE%BE&og:title=996List'
+  date: 2019年3月
+- name: 霁云科技
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: boss直聘
+      href: 'https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%9C%81%E4%BA%91%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%9C%81%E4%BA%91%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年3月
+- name: 北京关键科技股份有限公司
+  city: 北京
+  rule: '986'
+  evidences:
+    - title: 图片-1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/keyware1.jpg'
+    - title: 图片-2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/keyware2.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E5%85%B3%E9%94%AE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E5%85%B3%E9%94%AE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: 首约科技（北京）有限公司
+  city: 北京
+  rule: '996'
+  evidences: []
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%A6%96%E7%BA%A6%E7%A7%91%E6%8A%80%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%A6%96%E7%BA%A6%E7%A7%91%E6%8A%80%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: Boss直聘(北京华品博睿网络技术有限公司)
+  city: 北京
+  rule: 大小周
+  evidences:
+    - title: OFFER邮件(已处理图片和关键字过滤)
+      href: 'https://upload.cc/i1/2019/04/03/1wfI7o.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=Boss%E7%9B%B4%E8%81%98(%E5%8C%97%E4%BA%AC%E5%8D%8E%E5%93%81%E5%8D%9A%E7%9D%BF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=Boss%E7%9B%B4%E8%81%98(%E5%8C%97%E4%BA%AC%E5%8D%8E%E5%93%81%E5%8D%9A%E7%9D%BF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)&og:title=996List'
+  date: 2019年4月2日
+- name: 北京游奕互动软件有限公司
+  city: 北京
+  rule: '986'
+  evidences:
+    - title: 打卡记录
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/yyhd.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E6%B8%B8%E5%A5%95%E4%BA%92%E5%8A%A8%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E6%B8%B8%E5%A5%95%E4%BA%92%E5%8A%A8%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2016年3月
+- name: 小米
+  city: 北京
+  rule: '10106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B0%8F%E7%B1%B3&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B0%8F%E7%B1%B3&og:title=996List'
+  date: 2019年4月7日
+- name: 亚信(AsiaInfo)
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BA%9A%E4%BF%A1(AsiaInfo)&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BA%9A%E4%BF%A1(AsiaInfo)&og:title=996List'
+  date: 2019年4月7日
+- name: 猎聘网
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%8C%8E%E8%81%98%E7%BD%91&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%8C%8E%E8%81%98%E7%BD%91&og:title=996List'
+  date: 2019年4月7日
+- name: 百度
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%99%BE%E5%BA%A6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%99%BE%E5%BA%A6&og:title=996List'
+  date: 2019年4月7日
+- name: 便利蜂
+  city: 北京
+  rule: '10105'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BE%BF%E5%88%A9%E8%9C%82&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BE%BF%E5%88%A9%E8%9C%82&og:title=996List'
+  date: 2019年4月7日
+- name: VIPKID
+  city: 北京
+  rule: '10106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=VIPKID&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=VIPKID&og:title=996List'
+  date: 2019年4月7日
+- name: 天眼查
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5681112tl526.html?ka=review-label4'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A9%E7%9C%BC%E6%9F%A5&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A9%E7%9C%BC%E6%9F%A5&og:title=996List'
+  date: 2019年4月7日
+- name: 去哪儿网
+  city: 北京
+  rule: '10106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8E%BB%E5%93%AA%E5%84%BF%E7%BD%91&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8E%BB%E5%93%AA%E5%84%BF%E7%BD%91&og:title=996List'
+  date: 2019年4月7日
+- name: 云鸟科技
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr2477689tl56.html?ka=review-label3'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BA%91%E9%B8%9F%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BA%91%E9%B8%9F%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月7日
+- name: iCourt
+  city: 北京
+  rule: '996 or 10116'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=iCourt&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=iCourt&og:title=996List'
+  date: 2019年4月7日
+- name: 初见科技
+  city: 北京
+  rule: '995'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr2031621.html?ka=com1-review'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%88%9D%E8%A7%81%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%88%9D%E8%A7%81%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月7日
+- name: 作业帮
+  city: 北京
+  rule: 大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6288762.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BD%9C%E4%B8%9A%E5%B8%AE&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BD%9C%E4%B8%9A%E5%B8%AE&og:title=996List'
+  date: 2019年4月7日
+- name: 数美科技
+  city: 北京
+  rule: 大小周，加班
+  evidences:
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/290696102'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%95%B0%E7%BE%8E%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%95%B0%E7%BE%8E%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月8日
+- name: 快方送药
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl5675303.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%BF%AB%E6%96%B9%E9%80%81%E8%8D%AF&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%BF%AB%E6%96%B9%E9%80%81%E8%8D%AF&og:title=996List'
+  date: 已经施行一段时间了
+- name: 快陪练
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 发言为其招聘经理
+      href: 'https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%BF%AB%E9%99%AA%E7%BB%83&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%BF%AB%E9%99%AA%E7%BB%83&og:title=996List'
+  date: 2019年4月8日
+- name: 广东虚拟现实科技有限公司(Ximmerse)
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 邮件通知
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/Ximmerse%E8%80%83%E5%8B%A4%E9%82%AE%E4%BB%B6.png'
+    - title: 制度截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/Ximmerse%E5%88%B6%E5%BA%A6%E6%96%B9%E6%A1%88.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B9%BF%E4%B8%9C%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8(Ximmerse)&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B9%BF%E4%B8%9C%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8(Ximmerse)&og:title=996List'
+  date: 2016年06月1日
+- name: 成都二次元动漫有限公司
+  city: 成都
+  rule: '996'
+  evidences:
+    - title: 图片-1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ecy1.jpg'
+    - title: 图片-2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ecy12.jpg'
+    - title: 图片-3
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ecy4.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%88%90%E9%83%BD%E4%BA%8C%E6%AC%A1%E5%85%83%E5%8A%A8%E6%BC%AB%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%88%90%E9%83%BD%E4%BA%8C%E6%AC%A1%E5%85%83%E5%8A%A8%E6%BC%AB%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年12月1日
+- name: 东华软件股份公司
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 百度口碑
+      href: 'https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%9C%E5%8D%8E%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%9C%E5%8D%8E%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年2月
+- name: 易思维(杭州/天津)科技有限公司
+  city: 天津
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6228054.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%98%93%E6%80%9D%E7%BB%B4(%E6%9D%AD%E5%B7%9E/%E5%A4%A9%E6%B4%A5)%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%98%93%E6%80%9D%E7%BB%B4(%E6%9D%AD%E5%B7%9E/%E5%A4%A9%E6%B4%A5)%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 湖南创发科技有限公司
+  city: 长沙
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gso238619.html?ka=com1-title'
+    - title: 博客园
+      href: 'http://www.cnblogs.com/rawman/p/3401579.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B9%96%E5%8D%97%E5%88%9B%E5%8F%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B9%96%E5%8D%97%E5%88%9B%E5%8F%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: 金山软件
+  city: 珠海
+  rule: 996/9106
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6-9106.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6&og:title=996List'
+  date: 2017年7月12日
+- name: 信美人寿相互保险社
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr6603074.html?ka=com1-review'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%BF%A1%E7%BE%8E%E4%BA%BA%E5%AF%BF%E7%9B%B8%E4%BA%92%E4%BF%9D%E9%99%A9%E7%A4%BE&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%BF%A1%E7%BE%8E%E4%BA%BA%E5%AF%BF%E7%9B%B8%E4%BA%92%E4%BF%9D%E9%99%A9%E7%A4%BE&og:title=996List'
+  date: 2019年
+- name: 辉讯网络技术有限公司
+  city: 太原
+  rule: '996'
+  evidences:
+    - title: 考勤
+      href: 'https://i.loli.net/2019/04/11/5cae537484b5d.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%BE%89%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%BE%89%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: 上海鱼泡泡信息科技有限公司
+  city: 上海
+  rule: '996'
+  evidences:
+    - title: 脉脉
+      href: 'https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%8A%E6%B5%B7%E9%B1%BC%E6%B3%A1%E6%B3%A1%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%8A%E6%B5%B7%E9%B1%BC%E6%B3%A1%E6%B3%A1%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年12月
+- name: 武汉星云海数字科技股份有限公司
+  city: 武汉
+  rule: '996'
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/hxqc1.jpg'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/hxqc2.jpg'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/hxqc3.jpg'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gso5662099.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%A6%E6%B1%89%E6%98%9F%E4%BA%91%E6%B5%B7%E6%95%B0%E5%AD%97%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%A6%E6%B1%89%E6%98%9F%E4%BA%91%E6%B5%B7%E6%95%B0%E5%AD%97%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 福建浔兴拉链科技股份有限公司
+  city: 福建
+  rule: 单休
+  evidences:
+    - title: 大小休改单休！
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/sbs-%E5%A4%A7%E5%B0%8F%E5%91%A8%E6%94%B9%E5%8D%95%E4%BC%91.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%A6%8F%E5%BB%BA%E6%B5%94%E5%85%B4%E6%8B%89%E9%93%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%A6%8F%E5%BB%BA%E6%B5%94%E5%85%B4%E6%8B%89%E9%93%BE%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年6月17日
+- name: 掌门一对一教育有限公司
+  city: 上海
+  rule: 大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7018849.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%8E%8C%E9%97%A8%E4%B8%80%E5%AF%B9%E4%B8%80%E6%95%99%E8%82%B2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%8E%8C%E9%97%A8%E4%B8%80%E5%AF%B9%E4%B8%80%E6%95%99%E8%82%B2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 北京中广创思文化传播有限公司
+  city: 北京
+  rule: 996/9107
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B9%BF%E5%88%9B%E6%80%9D9107%E9%92%89%E9%92%89%E6%88%AA%E5%9B%BE.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B9%BF%E5%88%9B%E6%80%9D%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B9%BF%E5%88%9B%E6%80%9D%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 易车网
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 办公软件截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%98%93%E8%BD%A6996.png'
+    - title: 脉脉
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%98%93%E8%BD%A6%E8%84%89%E8%84%89.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%98%93%E8%BD%A6%E7%BD%91&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%98%93%E8%BD%A6%E7%BD%91&og:title=996List'
+  date: 2019年4月
+- name: 北京今始科技有限公司
+  city: 北京
+  rule: 996、恶意裁员
+  evidences:
+    - title: 邮件截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/linkface-996.jpg'
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/300467880/answer/532121441'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A7%8B%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A7%8B%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: 北京数码视讯科技股份有限公司
+  city: 北京
+  rule: 996，大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl474513.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E6%95%B0%E7%A0%81%E8%A7%86%E8%AE%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E6%95%B0%E7%A0%81%E8%A7%86%E8%AE%AF%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2011年4月
+- name: 北京声智科技有限公司
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: '看准网：包括 HR 全员996'
+      href: 'https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E5%A3%B0%E6%99%BA%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E5%A3%B0%E6%99%BA%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 蛋壳公寓
+  city: 北京
+  rule: 10106/10107
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%9B%8B%E5%A3%B3%E5%85%AC%E5%AF%93&og:title=996List'
+  date: 2018年7月
+- name: 北京掌握时代科技股份有限公司
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8C%97%E4%BA%AC%E6%8E%8C%E6%8F%A1%E6%97%B6%E4%BB%A3%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8C%97%E4%BA%AC%E6%8E%8C%E6%8F%A1%E6%97%B6%E4%BB%A3%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 快手
+  city: 北京
+  rule: '996'
+  evidences:
+    - title: 腾讯新闻
+      href: 'https://new.qq.com/omn/20190619/20190619A0NKNM.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%BF%AB%E6%89%8B&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%BF%AB%E6%89%8B&og:title=996List'
+  date: 2019年6月18日
+- name: 51talk
+  city: 北京
+  rule: 早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/question/769860.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=51talk&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=51talk&og:title=996List'
+  date: 2019年4月
+- name: 苏宁
+  city: 南京
+  rule: '996'
+  evidences:
+    - title: '如何评价今年苏宁正式实行996工作制?'
+      href: 'https://www.zhihu.com/question/314152843/answer/613149536'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%8B%8F%E5%AE%81&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%8B%8F%E5%AE%81&og:title=996List'
+  date: 2019年3月
+- name: 4399游戏
+  city: 厦门
+  rule: '10106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=4399%E6%B8%B8%E6%88%8F&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=4399%E6%B8%B8%E6%88%8F&og:title=996List'
+  date: 2019年4月7日
+- name: 蓝鸽集团有限公司
+  city: 嘉兴/广州
+  rule: 每月仅加班需满50小时
+  evidences:
+    - title: 知乎爆料
+      href: 'https://www.zhihu.com/question/40782949'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%93%9D%E9%B8%BD%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%93%9D%E9%B8%BD%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月4日
+- name: 大连东软集团
+  city: 大连
+  rule: '9106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl5758283.html?ka=review-item2'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl5892120.html?ka=review-item10'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A7%E8%BF%9E%E4%B8%9C%E8%BD%AF%E9%9B%86%E5%9B%A2&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A7%E8%BF%9E%E4%B8%9C%E8%BD%AF%E9%9B%86%E5%9B%A2&og:title=996List'
+  date: 2019年4月
+- name: 大连同方软银科技股份有限公司
+  city: 大连
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl5661184.html?ka=review-item6'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A7%E8%BF%9E%E5%90%8C%E6%96%B9%E8%BD%AF%E9%93%B6%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A7%E8%BF%9E%E5%90%8C%E6%96%B9%E8%BD%AF%E9%93%B6%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 长城汽车股份有限公司天津园区
+  city: 天津
+  rule: 大小周
+  evidences:
+    - title: 招聘简章
+      href: 'http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%A4%A9%E6%B4%A5%E5%9B%AD%E5%8C%BA&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%A4%A9%E6%B4%A5%E5%9B%AD%E5%8C%BA&og:title=996List'
+  date: 2019年3月28日
+- name: 小黑鱼
+  city: 天津
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://m.kanzhun.com/gsr6771936.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B0%8F%E9%BB%91%E9%B1%BC&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B0%8F%E9%BB%91%E9%B1%BC&og:title=996List'
+  date: 2019年4月7日
+- name: 天津天地伟业科技有限公司
+  city: 天津
+  rule: 强制996
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A9%E6%B4%A5%E5%A4%A9%E5%9C%B0%E4%BC%9F%E4%B8%9A%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A9%E6%B4%A5%E5%A4%A9%E5%9C%B0%E4%BC%9F%E4%B8%9A%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月8日
+- name: 易思维(杭州/天津)科技有限公司
+  city: 天津
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6228054.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%98%93%E6%80%9D%E7%BB%B4(%E6%9D%AD%E5%B7%9E/%E5%A4%A9%E6%B4%A5)%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%98%93%E6%80%9D%E7%BB%B4(%E6%9D%AD%E5%B7%9E/%E5%A4%A9%E6%B4%A5)%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 辉讯网络技术有限公司
+  city: 太原
+  rule: '996'
+  evidences:
+    - title: 考勤
+      href: 'https://i.loli.net/2019/04/11/5cae537484b5d.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%BE%89%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%BE%89%E8%AE%AF%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: 山东兆物网络技术股份有限公司
+  city: 山东淄博
+  rule: '8106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6588029.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B1%B1%E4%B8%9C%E5%85%86%E7%89%A9%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B1%B1%E4%B8%9C%E5%85%86%E7%89%A9%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月9日
+- name: '小鹏汽车(XPENG Motors)'
+  city: 广州
+  rule: 大小周、大会战（996）、各部门的上班时间进行排名
+  evidences:
+    - title: 工作日程安排表
+      href: 'https://raw.githubusercontent.com/xiaopeng996icu/996.ICU/2b01c57202351af334c157361ffe702d42765bbc/blacklist/img/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6.JPG'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6(XPENG%20Motors)&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6(XPENG%20Motors)&og:title=996List'
+  date: 2018年
+- name: 鲸鱼游戏
+  city: 广州
+  rule: '996'
+  evidences:
+    - title: 考勤
+      href: 'https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%B2%B8%E9%B1%BC%E6%B8%B8%E6%88%8F&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%B2%B8%E9%B1%BC%E6%B8%B8%E6%88%8F&og:title=996List'
+  date: 2017年3月
+- name: 多益网络
+  city: 广州
+  rule: '9106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1365983tl56.html'
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/22713470/answer/145287600'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C&og:title=996List'
+  date: 2018年3月
+- name: 网易游戏
+  city: 广州
+  rule: '10106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F&og:title=996List'
+  date: 2019年4月7日
+- name: 三七互娱
+  city: 广州
+  rule: '9115 9116?'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1&og:title=996List'
+  date: 2019年4月7日
+- name: '广州创思信息技术有限公司（9377 游戏）'
+  city: 广州
+  rule: 大小周加班
+  evidences:
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/53318899'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B9%BF%E5%B7%9E%E5%88%9B%E6%80%9D%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%EF%BC%889377%20%E6%B8%B8%E6%88%8F%EF%BC%89&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B9%BF%E5%B7%9E%E5%88%9B%E6%80%9D%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%EF%BC%889377%20%E6%B8%B8%E6%88%8F%EF%BC%89&og:title=996List'
+  date: 2019年4月8日
+- name: tap4fun
+  city: 成都
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=tap4fun&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=tap4fun&og:title=996List'
+  date: 2019年4月7日
+- name: 成都二次元动漫有限公司
+  city: 成都
+  rule: '996'
+  evidences:
+    - title: 图片-1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ecy1.jpg'
+    - title: 图片-2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ecy12.jpg'
+    - title: 图片-3
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ecy4.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%88%90%E9%83%BD%E4%BA%8C%E6%AC%A1%E5%85%83%E5%8A%A8%E6%BC%AB%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%88%90%E9%83%BD%E4%BA%8C%E6%AC%A1%E5%85%83%E5%8A%A8%E6%BC%AB%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年12月1日
+- name: 成都索贝数码科技股份有限公司
+  city: 成都
+  rule: '996 无倒休'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7169544.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%88%90%E9%83%BD%E7%B4%A2%E8%B4%9D%E6%95%B0%E7%A0%81%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%88%90%E9%83%BD%E7%B4%A2%E8%B4%9D%E6%95%B0%E7%A0%81%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月8日
+- name: 河北东软软件有限公司
+  city: 河北秦皇岛
+  rule: '8.30-21,副总亲自回复邮件加班'
+  evidences:
+    - title: 邮件截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%B2%B3%E5%8C%97%E4%B8%9C%E8%BD%AF%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%94%B3%E8%AF%B7%E5%8A%A0%E7%8F%AD.png'
+    - title: 微信聊天记录
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/neuq_work_overtime_evidence2.jpg'
+    - title: 微信聊天记录2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/neuq_work_overtime_evidence3.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B2%B3%E5%8C%97%E4%B8%9C%E8%BD%AF%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B2%B3%E5%8C%97%E4%B8%9C%E8%BD%AF%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 成都未知未来科技有限公司
+  city: 成都
+  rule: 大小周、拖欠工资，裁员无补偿
+  evidences:
+    - title: 周六加班
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/xf%E5%91%A8%E5%85%AD%E5%8A%A0%E7%8F%AD%E9%80%9A%E7%9F%A5.png'
+    - title: 提醒补加班
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/xf%E6%8F%90%E9%86%92%E8%A1%A5%E5%8A%A0%E7%8F%AD.png'
+    - title: 裁员后还拖欠工资
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/xf%E8%A2%AB%E8%A3%81%E5%91%98%E6%8B%96%E6%AC%A0%E8%96%AA%E8%B5%84.jpg'
+    - title: 仲裁书
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/xf%E5%8A%B3%E5%8A%A8%E4%BB%B2%E8%A3%81%E4%B9%A6.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%88%90%E9%83%BD%E6%9C%AA%E7%9F%A5%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%88%90%E9%83%BD%E6%9C%AA%E7%9F%A5%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年12月
+- name: 阿里巴巴
+  city: 杭州
+  rule: '996'
+  evidences:
+    - title: 阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！
+      href: 'https://kuaibao.qq.com/s/20180612A1FAPU00'
+    - title: '马云：996是修来的福报! 律师：涉嫌违法'
+      href: 'http://m.sohu.com/a/307564633_241241'
+    - title: '马云：后悔忙于工作 没时间陪家人 有来生绝不这样'
+      href: 'https://v.qq.com/x/page/h0860wwt0xl.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4&og:title=996List'
+  date: 2018年6月
+- name: 蚂蚁金服
+  city: 杭州
+  rule: '9106'
+  evidences:
+    - title: 阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使
+      href: 'https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D&og:title=996List'
+  date: 2018年11月
+- name: 有赞
+  city: 杭州
+  rule: '996'
+  evidences:
+    - title: 年会成了“鸿门宴”，这家公司“强制996”被员工举报
+      href: 'http://www.linkshop.com.cn/web/archives/2019/418163.shtml'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%9C%89%E8%B5%9E&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%9C%89%E8%B5%9E&og:title=996List'
+  date: 2019年1月
+- name: 智贝科技
+  city: 杭州
+  rule: 强制996、歧视程序员
+  evidences:
+    - title: 程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人
+      href: 'https://baijiahao.baidu.com/s?id=1627625016599313128'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%99%BA%E8%B4%9D%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%99%BA%E8%B4%9D%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年3月
+- name: 同花顺
+  city: 杭州
+  rule: 大小周、加班
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6896401.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%90%8C%E8%8A%B1%E9%A1%BA&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%90%8C%E8%8A%B1%E9%A1%BA&og:title=996List'
+  date: 2018年12月
+- name: 杭州海康威视数字技术股份有限公司
+  city: 杭州
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6448138.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%9D%AD%E5%B7%9E%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%9D%AD%E5%B7%9E%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年
+- name: 浙江大华技术股份有限公司
+  city: 杭州
+  rule: 加班
+  evidences:
+    - title: 职业圈
+      href: 'http://www.7360.cc/Review-80253'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6360251.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%8D%8E%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%8D%8E%E6%8A%80%E6%9C%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年
+- name: 浙江宇视科技有限公司
+  city: 杭州
+  rule: 大小周加班
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsmsh10805642.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B5%99%E6%B1%9F%E5%AE%87%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B5%99%E6%B1%9F%E5%AE%87%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年
+- name: 网易考拉海购
+  city: 杭州
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%BD%91%E6%98%93%E8%80%83%E6%8B%89%E6%B5%B7%E8%B4%AD&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%BD%91%E6%98%93%E8%80%83%E6%8B%89%E6%B5%B7%E8%B4%AD&og:title=996List'
+  date: 2019年4月7日
+- name: 盘石信息科技有限公司
+  city: 杭州
+  rule: 996/9106
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%B5%99%E6%B1%9F%E6%9D%AD%E5%B7%9E%E7%9B%98%E7%9F%B3%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8996%E5%88%B6%E5%BA%A6.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%9B%98%E7%9F%B3%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%9B%98%E7%9F%B3%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年11月12日
+- name: 悠书网络科技有限公司
+  city: 杭州
+  rule: '9 6.5 5/每周强制加班8小时,每月不达标辞退'
+  evidences:
+    - title: 内部截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%82%A0%E4%B9%A6%E7%A7%91%E6%8A%80%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B81.jpg'
+    - title: 内部截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%82%A0%E4%B9%A6%E7%A7%91%E6%8A%80%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B82.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%82%A0%E4%B9%A6%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%82%A0%E4%B9%A6%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年5月到7月底
+- name: 武汉小码联城科技有限公司
+  city: 武汉
+  rule: '995'
+  evidences:
+    - title: 钉钉截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E5%B0%8F%E7%A0%81%E8%81%94%E5%9F%8E%E5%8A%A0%E7%8F%AD.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%A6%E6%B1%89%E5%B0%8F%E7%A0%81%E8%81%94%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%A6%E6%B1%89%E5%B0%8F%E7%A0%81%E8%81%94%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月22日
+- name: 氪细胞
+  city: 武汉
+  rule: '996'
+  evidences:
+    - title: 考勤日历
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/timing360-0823.jpg'
+    - title: 考勤规则
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/timing360-1201.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B0%AA%E7%BB%86%E8%83%9E&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B0%AA%E7%BB%86%E8%83%9E&og:title=996List'
+  date: 2019年3月
+- name: 武汉精臣智慧标识科技有限公司
+  city: 武汉
+  rule: '966'
+  evidences:
+    - title: 考勤日历
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E7%B2%BE%E8%87%A3%E6%99%BA%E6%85%A7-%E6%89%93%E5%8D%A1%E6%97%A5%E5%8E%86.jpg'
+    - title: 考勤制度-1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E7%B2%BE%E8%87%A3%E6%99%BA%E6%85%A7-%E8%80%83%E5%8B%A4%E5%88%B6%E5%BA%A6-1.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%A6%E6%B1%89%E7%B2%BE%E8%87%A3%E6%99%BA%E6%85%A7%E6%A0%87%E8%AF%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%A6%E6%B1%89%E7%B2%BE%E8%87%A3%E6%99%BA%E6%85%A7%E6%A0%87%E8%AF%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年9月
+- name: 武汉星云海数字科技股份有限公司
+  city: 武汉
+  rule: '996'
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/hxqc1.jpg'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/hxqc2.jpg'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/hxqc3.jpg'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gso5662099.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%A6%E6%B1%89%E6%98%9F%E4%BA%91%E6%B5%B7%E6%95%B0%E5%AD%97%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%A6%E6%B1%89%E6%98%9F%E4%BA%91%E6%B5%B7%E6%95%B0%E5%AD%97%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 武汉斗鱼网络科技有限公司
+  city: 武汉
+  rule: 每天至少加班两小时，拖欠大量工资，无加班费
+  evidences:
+    - title: 看准网
+      href: 'https://m.kanzhun.com/pl6708460.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%A6%E6%B1%89%E6%96%97%E9%B1%BC%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%A6%E6%B1%89%E6%96%97%E9%B1%BC%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年9月
+- name: 浪潮软件
+  city: 泰安
+  rule: '6 * 12 ！'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B5%AA%E6%BD%AE%E8%BD%AF%E4%BB%B6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B5%AA%E6%BD%AE%E8%BD%AF%E4%BB%B6&og:title=996List'
+  date: 2019年4月7日
+- name: 山东国子软件股份有限公司
+  city: 济南
+  rule: '886'
+  evidences:
+    - title: 加班表
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/googosoft.png'
+    - title: 加班表
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/googosoft2.png'
+    - title: 看准网1
+      href: 'https://www.kanzhun.com/pl6406106.html'
+    - title: 看准网2
+      href: 'https://www.kanzhun.com/gsr5619934tl56.html?ka=review-label4'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B1%B1%E4%B8%9C%E5%9B%BD%E5%AD%90%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B1%B1%E4%B8%9C%E5%9B%BD%E5%AD%90%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2017年4月
+- name: 普联软件
+  city: 济南
+  rule: '8106'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr61725tl56.html?ka=review-label11'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%99%AE%E8%81%94%E8%BD%AF%E4%BB%B6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%99%AE%E8%81%94%E8%BD%AF%E4%BB%B6&og:title=996List'
+  date: 2019年4月7日
+- name: 华为
+  city: 深圳
+  rule: '9106'
+  evidences:
+    - title: 华为：“自愿”的奋斗者协议
+      href: 'http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/huawei.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8D%8E%E4%B8%BA&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8D%8E%E4%B8%BA&og:title=996List'
+  date: 2010年8月
+- name: 大疆创新
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: '程序员猝死之后大疆称无加班文化 离职员工怒了'
+      href: 'https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A7%E7%96%86%E5%88%9B%E6%96%B0&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A7%E7%96%86%E5%88%9B%E6%96%B0&og:title=996List'
+  date: 2018年12月
+- name: 深信服
+  city: 深圳
+  rule: '9106'
+  evidences:
+    - title: '深信服真的每天加班到 11 点吗'
+      href: 'https://www.v2ex.com/t/525495'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E4%BF%A1%E6%9C%8D&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E4%BF%A1%E6%9C%8D&og:title=996List'
+  date: 2019年3月
+- name: 跨越速运
+  city: 深圳
+  rule: 大小周、<br>加班、裁员
+  evidences:
+    - title: '如何看待跨越速运的裁员方式？ - 知乎'
+      href: 'https://www.zhihu.com/question/312825261'
+    - title: 跨越的水军洗地被抓现行
+      href: 'https://www.zhihu.com/question/47203239/answer/643311492'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%B7%A8%E8%B6%8A%E9%80%9F%E8%BF%90&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%B7%A8%E8%B6%8A%E9%80%9F%E8%BF%90&og:title=996List'
+  date: 2018年8月
+- name: 马上金融
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl5641018.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%A9%AC%E4%B8%8A%E9%87%91%E8%9E%8D&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%A9%AC%E4%B8%8A%E9%87%91%E8%9E%8D&og:title=996List'
+  date: 2018年3月
+- name: 深圳市世纪纵横科技发展有限公司
+  city: 深圳
+  rule: 966、加班、拖延工资
+  evidences:
+    - title: 拖欠工资
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/chat1.png'
+    - title: 拖欠工资
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/chat2.png'
+    - title: 拖欠工资
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/chat3.png'
+    - title: 加班1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/taxi.jpg'
+    - title: 加班2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/taxi2.jpg'
+    - title: 加班3
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/taxi3.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%B8%96%E7%BA%AA%E7%BA%B5%E6%A8%AA%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%B8%96%E7%BA%AA%E7%BA%B5%E6%A8%AA%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 深圳市环球易购电子商务有限公司
+  city: 深圳
+  rule: 大小周、经常996、偶尔通宵
+  evidences:
+    - title: 劳动合同
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/globalegrow_labor_contract.jpg'
+    - title: Offer
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/globalegrow_offer.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%8E%AF%E7%90%83%E6%98%93%E8%B4%AD%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%8E%AF%E7%90%83%E6%98%93%E8%B4%AD%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2007年5月
+- name: 腾讯
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%85%BE%E8%AE%AF&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%85%BE%E8%AE%AF&og:title=996List'
+  date: 2019年4月7日
+- name: VIVO
+  city: 深圳
+  rule: 996大小周
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6139773.html?ka=review-item2'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=VIVO&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=VIVO&og:title=996List'
+  date: 2019年4月14日
+- name: 房多多
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr2072113tl56.html?ka=review-label13'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%88%BF%E5%A4%9A%E5%A4%9A&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%88%BF%E5%A4%9A%E5%A4%9A&og:title=996List'
+  date: 2019年4月7日
+- name: 万兴科技
+  city: 深圳
+  rule: '995'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%87%E5%85%B4%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%87%E5%85%B4%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月7日
+- name: 追一科技
+  city: 深圳
+  rule: '10106 疯狂加班'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr5693705.html?ka=com1-review'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%BF%BD%E4%B8%80%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%BF%BD%E4%B8%80%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月7日
+- name: 深圳市猜猜城科技有限公司
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr6671156.html?ka=com1-review'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%8C%9C%E7%8C%9C%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%8C%9C%E7%8C%9C%E5%9F%8E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月7日
+- name: 道通科技
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%81%93%E9%80%9A%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%81%93%E9%80%9A%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月7日
+- name: 尊豪网络科技有限公司
+  city: 深圳
+  rule: 每天10小时
+  evidences:
+    - title: 看准网
+      href: 'https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B0%8A%E8%B1%AA%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B0%8A%E8%B1%AA%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月7日
+- name: 广东虚拟现实科技有限公司(Ximmerse)
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 邮件通知
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/Ximmerse%E8%80%83%E5%8B%A4%E9%82%AE%E4%BB%B6.png'
+    - title: 制度截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/Ximmerse%E5%88%B6%E5%BA%A6%E6%96%B9%E6%A1%88.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B9%BF%E4%B8%9C%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8(Ximmerse)&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B9%BF%E4%B8%9C%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8(Ximmerse)&og:title=996List'
+  date: 2016年06月1日
+- name: 边度网络科技（深圳）有限公司
+  city: 深圳
+  rule: '996'
+  evidences:
+    - title: 制度要求截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/bindo_com_996.jpg'
+    - title: 打卡截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/bindo_com_996_2.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%BE%B9%E5%BA%A6%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%BE%B9%E5%BA%A6%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月25日
+- name: 微付充科技有限公司
+  city: 深圳
+  rule: '大小周， 每个月固定两天'
+  evidences:
+    - title: 职友集
+      href: 'https://www.jobui.com/company/12488776/salary/'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%BE%AE%E4%BB%98%E5%85%85%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%BE%AE%E4%BB%98%E5%85%85%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 深圳沈鼓测控技术有限公司
+  city: 深圳
+  rule: 提倡员工签署自愿加班协议
+  evidences:
+    - title: 承诺书图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%B7%B1%E5%9C%B3%E6%B2%88%E9%BC%93%E8%87%AA%E6%84%BF%E5%8A%A0%E7%8F%AD%E6%89%BF%E8%AF%BA%E4%B9%A6.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E6%B2%88%E9%BC%93%E6%B5%8B%E6%8E%A7%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E6%B2%88%E9%BC%93%E6%B5%8B%E6%8E%A7%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 深圳市前海手绘科技文化有限公司
+  city: 深圳
+  rule: 996连坐，如果有人迟到或请事假，全部门996一周
+  evidences:
+    - title: 群聊图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%9D%A5%E7%94%BB996.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%89%8D%E6%B5%B7%E6%89%8B%E7%BB%98%E7%A7%91%E6%8A%80%E6%96%87%E5%8C%96%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%89%8D%E6%B5%B7%E6%89%8B%E7%BB%98%E7%A7%91%E6%8A%80%E6%96%87%E5%8C%96%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 华为外包
+  city: 深圳/杭州
+  rule: 大小周、加班、裁员
+  evidences:
+    - title: '华为外包是怎样的体验？ - 知乎'
+      href: 'https://www.zhihu.com/question/28517881'
+    - title: 打卡记录
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/huawei_hangzhou_timing.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8D%8E%E4%B8%BA%E5%A4%96%E5%8C%85&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8D%8E%E4%B8%BA%E5%A4%96%E5%8C%85&og:title=996List'
+  date: 2018年3月
+- name: 深圳聚力创想信息科技有限公司
+  city: 深圳
+  rule: 大小周、加班
+  evidences:
+    - title: 打卡通知1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/qidianxueyuan1.jpg'
+    - title: 打卡通知2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/qidianxueyuan2.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E8%81%9A%E5%8A%9B%E5%88%9B%E6%83%B3%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E8%81%9A%E5%8A%9B%E5%88%9B%E6%83%B3%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: '------'
+- name: 金山软件
+  city: 珠海
+  rule: 996/9106
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6-9106.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6&og:title=996List'
+  date: 2017年7月12日
+- name: 中富通集团股份有限公司
+  city: 福州
+  rule: '宣扬马云996 随意要求员工加班'
+  evidences:
+    - title: 微信截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/zftjt.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%AD%E5%AF%8C%E9%80%9A%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%AD%E5%AF%8C%E9%80%9A%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 顺舟智能
+  city: 苏州
+  rule: '996'
+  evidences:
+    - title: 智联招聘
+      href: 'https://jobs.zhaopin.com/CC549324722J00346803701.htm'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E9%A1%BA%E8%88%9F%E6%99%BA%E8%83%BD&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E9%A1%BA%E8%88%9F%E6%99%BA%E8%83%BD&og:title=996List'
+  date: 2019年3月
+- name: 苏州同思软件有限公司
+  city: 苏州
+  rule: 996、9106
+  evidences:
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/tongsi1.png'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/tongsi2.png'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/tongsi3.png'
+    - title: 图片
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/tongsi4.png'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E8%8B%8F%E5%B7%9E%E5%90%8C%E6%80%9D%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E8%8B%8F%E5%B7%9E%E5%90%8C%E6%80%9D%E8%BD%AF%E4%BB%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 凌志软件股份有限公司
+  city: 苏州
+  rule: 996，9106，9116
+  evidences:
+    - title: 专坑实习生
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/lingzhi1.png'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gsr99810c50.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%87%8C%E5%BF%97%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%87%8C%E5%BF%97%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: Momenta
+  city: 苏州
+  rule: '996'
+  evidences:
+    - title: CEO朋友圈宣扬马云996
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/mbgwb.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=Momenta&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=Momenta&og:title=996List'
+  date: 2019年4月
+- name: 湖南创发科技有限公司
+  city: 长沙
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gso238619.html?ka=com1-title'
+    - title: 博客园
+      href: 'http://www.cnblogs.com/rawman/p/3401579.html'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B9%96%E5%8D%97%E5%88%9B%E5%8F%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B9%96%E5%8D%97%E5%88%9B%E5%8F%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年3月
+- name: 海尔集团
+  city: 青岛
+  rule: '996'
+  evidences:
+    - title: 在海尔工作怎么样
+      href: 'https://www.zhihu.com/question/21895528'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B5%B7%E5%B0%94%E9%9B%86%E5%9B%A2&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B5%B7%E5%B0%94%E9%9B%86%E5%9B%A2&og:title=996List'
+  date: 2019年4月
+- name: 易点天下
+  city: 西安
+  rule: 9116/9117
+  evidences:
+    - title: 工作截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%98%93%E7%82%B9%E5%A4%A9%E4%B8%8B.jpeg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%98%93%E7%82%B9%E5%A4%A9%E4%B8%8B&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%98%93%E7%82%B9%E5%A4%A9%E4%B8%8B&og:title=996List'
+  date: '-----'
+- name: 歌尔股份
+  city: 潍坊
+  rule: 大小周、节假日遇单休从双休周调休
+  evidences:
+    - title: 考勤规定
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/goertek.jpeg'
+    - title: 放假安排1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/goertek-1.jpg'
+    - title: 放假安排2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/goertek-2.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%AD%8C%E5%B0%94%E8%82%A1%E4%BB%BD&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%AD%8C%E5%B0%94%E8%82%A1%E4%BB%BD&og:title=996List'
+  date: 2019年4月
+- name: 浪潮集团
+  city: 济南
+  rule: '996'
+  evidences:
+    - title: 996工作制
+      href: 'https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&fromid=19958311&fr=aladdin#3'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B5%AA%E6%BD%AE%E9%9B%86%E5%9B%A2&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B5%AA%E6%BD%AE%E9%9B%86%E5%9B%A2&og:title=996List'
+  date: '-----'
+- name: 中软国际科技服务有限公司
+  city: 西安
+  rule: '996'
+  evidences:
+    - title: 猎聘网
+      href: 'https://jobs.zhaopin.com/CC508620126J00303154805.htm'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%AD%E8%BD%AF%E5%9B%BD%E9%99%85%E7%A7%91%E6%8A%80%E6%9C%8D%E5%8A%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%AD%E8%BD%AF%E5%9B%BD%E9%99%85%E7%A7%91%E6%8A%80%E6%9C%8D%E5%8A%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 紫优科技
+  city: 深圳
+  rule: '9116'
+  evidences:
+    - title: 公司老板发的招聘信息
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%B7%B1%E5%9C%B3%E7%B4%AB%E4%BC%98%E7%A7%91%E6%8A%80.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E7%B4%AB%E4%BC%98%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E7%B4%AB%E4%BC%98%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年4月
+- name: 大连大连海大赢海科技有限公司
+  city: 大连
+  rule: 强制996、大小周
+  evidences:
+    - title: 内部群1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E8%B5%A2%E6%B5%B7%E7%A7%91%E6%8A%80-%E5%86%85%E9%83%A8%E7%BE%A4%E6%88%AA%E5%9B%BE1.png'
+    - title: 内部群2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E8%B5%A2%E6%B5%B7%E7%A7%91%E6%8A%80-%E5%86%85%E9%83%A8%E7%BE%A4%E6%88%AA%E5%9B%BE2.png'
+    - title: 内部群3
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E8%B5%A2%E6%B5%B7%E7%A7%91%E6%8A%80-%E5%86%85%E9%83%A8%E7%BE%A4%E6%88%AA%E5%9B%BE3.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A7%E8%BF%9E%E5%A4%A7%E8%BF%9E%E6%B5%B7%E5%A4%A7%E8%B5%A2%E6%B5%B7%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A7%E8%BF%9E%E5%A4%A7%E8%BF%9E%E6%B5%B7%E5%A4%A7%E8%B5%A2%E6%B5%B7%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年9月
+- name: 华勤通讯技术有限公司
+  city: 上海/西安
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/gso238619.html?ka=com1-title'
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/49628909/answer/522467068'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8D%8E%E5%8B%A4%E9%80%9A%E8%AE%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8D%8E%E5%8B%A4%E9%80%9A%E8%AE%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 小猪短租
+  city: 北京
+  rule: '997'
+  evidences:
+    - title: 工作截图
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E5%B0%8F%E7%8C%AA%E7%9F%AD%E7%A7%9F.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B0%8F%E7%8C%AA%E7%9F%AD%E7%A7%9F&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B0%8F%E7%8C%AA%E7%9F%AD%E7%A7%9F&og:title=996List'
+  date: '-----'
+- name: 广州明动软件股份有限公司
+  city: 广州
+  rule: '9106'
+  evidences:
+    - title: 领导发的邮件
+      href: 'https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%B9%BF%E5%B7%9E%E6%98%8E%E5%8A%A8%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%B9%BF%E5%B7%9E%E6%98%8E%E5%8A%A8%E8%BD%AF%E4%BB%B6%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2018年9月
+- name: 深圳市康拓普信息技术有限公司
+  city: 深圳
+  rule: '9127'
+  evidences: []
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%BA%B7%E6%8B%93%E6%99%AE%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%BA%B7%E6%8B%93%E6%99%AE%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 大连同方软银科技股份有限公司
+  city: 大连
+  rule: '996'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl5661184.html?ka=review-item6'
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%A4%A7%E8%BF%9E%E5%90%8C%E6%96%B9%E8%BD%AF%E9%93%B6%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%A4%A7%E8%BF%9E%E5%90%8C%E6%96%B9%E8%BD%AF%E9%93%B6%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年4月
+- name: 成都几维科技
+  city: 成都
+  rule: '10 8 5，项目提审阶段10 10 6，实习生也不放过，并且实习生没有加班工资'
+  evidences:
+    - title: qq群内部截图1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%88%90%E9%83%BD%E5%87%A0%E7%BB%B4%E7%A7%91%E6%8A%801.png'
+    - title: qq群内部截图2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%88%90%E9%83%BD%E5%87%A0%E7%BB%B4%E7%A7%91%E6%8A%802.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%88%90%E9%83%BD%E5%87%A0%E7%BB%B4%E7%A7%91%E6%8A%80&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%88%90%E9%83%BD%E5%87%A0%E7%BB%B4%E7%A7%91%E6%8A%80&og:title=996List'
+  date: 2019年3月
+- name: 同方软银
+  city: 大连
+  rule: '996'
+  evidences:
+    - title: 看准网1
+      href: 'https://www.kanzhun.com/pl5661184.html?ka=review-item6'
+    - title: 看准网2
+      href: 'https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%90%8C%E6%96%B9%E8%BD%AF%E9%93%B6&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%90%8C%E6%96%B9%E8%BD%AF%E9%93%B6&og:title=996List'
+  date: 2017年5月
+- name: 浙江大华
+  city: 杭州
+  rule: 浙江杭州办linux运维的技术支持大小周、无加班工资
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl6967786.html?ka=review-item-ckqw'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%8D%8E&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%8D%8E&og:title=996List'
+  date: 2015年10月
+- name: 利朗达
+  city: 深圳
+  rule: 996、加班费一天15块
+  evidences:
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/265739414'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%88%A9%E6%9C%97%E8%BE%BE&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%88%A9%E6%9C%97%E8%BE%BE&og:title=996List'
+  date: 2017年10月
+- name: 中电万维
+  city: 兰州
+  rule: '997'
+  evidences:
+    - title: 看准网
+      href: 'https://www.kanzhun.com/pl7109874.html?ka=review-item4'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%AD%E7%94%B5%E4%B8%87%E7%BB%B4&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%AD%E7%94%B5%E4%B8%87%E7%BB%B4&og:title=996List'
+  date: 2018年3月
+- name: 上海欧电云信息科技有限公司
+  city: 上海
+  rule: 表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。
+  evidences:
+    - title: 加班点餐邮件1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%AC%A7%E7%94%B5%E4%BA%91%E5%8A%A0%E7%8F%AD%E8%A1%8C%E6%94%BF%E9%82%AE%E4%BB%B6%E6%88%AA%E5%9B%BE3.png'
+    - title: 加班点餐邮件2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E6%AC%A7%E7%94%B5%E4%BA%91%E5%8A%A0%E7%8F%AD%E9%A4%90%E7%A5%A8%E6%88%AA%E5%9B%BE1.png'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%8A%E6%B5%B7%E6%AC%A7%E7%94%B5%E4%BA%91%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%8A%E6%B5%B7%E6%AC%A7%E7%94%B5%E4%BA%91%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年5月
+- name: 南京万米信息技术有限公司
+  city: 南京
+  rule: 公司经常996
+  evidences:
+    - title: ceo强调9961
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ceo1.jpeg'
+    - title: ceo强调9962
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/ceo2.jpeg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8D%97%E4%BA%AC%E4%B8%87%E7%B1%B3%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8D%97%E4%BA%AC%E4%B8%87%E7%B1%B3%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 2019年6月
+- name: 华勤通讯
+  city: 东莞
+  rule: 996，每天加班
+  evidences:
+    - title: 知乎
+      href: 'https://www.zhihu.com/question/49628909/answer/522467068'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E5%8D%8E%E5%8B%A4%E9%80%9A%E8%AE%AF&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E5%8D%8E%E5%8B%A4%E9%80%9A%E8%AE%AF&og:title=996List'
+  date: 2019年7月
+- name: 中设设计集团子公司纬信工程咨询公司
+  city: 南京
+  rule: 领导明令8106，工作前三年无年假
+  evidences:
+    - title: 群聊截图1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%81%93%E6%A1%A5%E9%83%A8%E7%BE%A4%E8%81%8A%E6%88%AA%E5%9B%BE.jpg'
+    - title: 群聊截图2
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%81%93%E6%A1%A5%E9%83%A8%E7%BE%A4%E8%81%8A%E6%88%AA%E5%9B%BE1.jpg'
+    - title: 群聊截图3
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E9%81%93%E6%A1%A5%E9%83%A8%E7%BE%A4%E8%81%8A%E6%88%AA%E5%9B%BE2.jpg'
+    - title: 签到表7.31
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E7%AD%BE%E5%88%B0%E8%A1%A87.31.jpg'
+    - title: 签到表8.1
+      href: 'https://raw.githubusercontent.com/996icu/996.ICU/master/blacklist/img/%E7%AD%BE%E5%88%B0%E8%A1%A88.1.jpg'
+  comment_url: 'https://utteranc.es/utterances.html?src=https://utteranc.es/client.js&repo=fengT-T/996_comment&issue-term=%E4%B8%AD%E8%AE%BE%E8%AE%BE%E8%AE%A1%E9%9B%86%E5%9B%A2%E5%AD%90%E5%85%AC%E5%8F%B8%E7%BA%AC%E4%BF%A1%E5%B7%A5%E7%A8%8B%E5%92%A8%E8%AF%A2%E5%85%AC%E5%8F%B8&crossorigin=anonymous&theme=github-light&async=&url=https://fengt-t.github.io/996_list/&origin=https://fengt-t.github.io/996_list/&pathname=996_list&title=996List&description=%E4%B8%AD%E8%AE%BE%E8%AE%BE%E8%AE%A1%E9%9B%86%E5%9B%A2%E5%AD%90%E5%85%AC%E5%8F%B8%E7%BA%AC%E4%BF%A1%E5%B7%A5%E7%A8%8B%E5%92%A8%E8%AF%A2%E5%85%AC%E5%8F%B8&og:title=996List'
+  date: 自公司成立
