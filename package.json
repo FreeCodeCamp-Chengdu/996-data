@@ -1,13 +1,16 @@
 {
-  "name": "996-data",
-  "version": "1.0.0",
+  "name": "@fcc-cdc/996-data",
+  "version": "1.0.1",
   "description": "Structure Data of 996 companies",
   "license": "Anti-996 1.0",
-  "devDependencies": {
-    "husky": "^4.3.7",
-    "lint-staged": "^10.5.3",
-    "prettier": "^2.2.1",
+  "dependencies": {
+    "koapache": "^2.2.1",
     "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.2",
+    "prettier": "^2.5.1"
   },
   "prettier": {
     "singleQuote": true,
@@ -20,12 +23,7 @@
     "test": "lint-staged",
     "pack-996": "yaml2json source/996.yml > dist/996.json",
     "pack-955": "yaml2json source/955.yml > dist/955.json",
-    "build": "rm -rf dist  &&  mkdir dist  &&  npm run pack-996  &&  npm run pack-955"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test",
-      "pre-push": "npm run build"
-    }
+    "build": "rm -rf dist  &&  mkdir dist  &&  npm run pack-996  &&  npm run pack-955",
+    "start": "npm run build  &&  web-server dist/ -p 3000"
   }
 }
